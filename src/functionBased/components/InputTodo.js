@@ -1,3 +1,5 @@
+/* eslint-disable */
+/* eslint-plugin-disable react */
 import React, { useState } from 'react';
 
 const InputTodo = (props) => {
