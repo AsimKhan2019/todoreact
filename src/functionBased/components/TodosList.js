@@ -1,3 +1,5 @@
+/* eslint-disable no-eval */
+/* eslint-disable */
 import React from 'react';
 import TodoItem from './TodoItem';
 
